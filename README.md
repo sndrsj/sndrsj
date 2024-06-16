@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sndrsj
-- 👀 I’m interested in anything that can help me evolve my skils 
+- 👀 I’m interested in anything that can help me evolve my skills 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on begginers projects
-- 📫 How to reach me? Follow my ig @sjkxdd
+- 📫 How to reach me? Follow my ig @sndrsj
 
 <!---
 sndrsj/sndrsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
