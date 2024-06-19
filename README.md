@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sndrsj
 - 👀 I’m interested in anything that can help me evolve my skills 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning POO
 - 💞️ I’m looking to collaborate on begginers projects
 - 📫 How to reach me? Follow my ig @sndrsj
 
